@@ -21,6 +21,7 @@ I'm a Web Developer and Photographer currently attending the Full Stack Coding B
 - [Portfolio](https://taylorgonz.com/)
 - hello@taylrgonz.com
 
+##
 
 - 🌱 I’m currently learning Backend Javascript.
 - ⚡ Fun fact: Coffee is my other passion and I've been a Coffee Professional for the last 6 years.
