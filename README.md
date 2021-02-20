@@ -1,16 +1,26 @@
 ### Hi there 👋
+-Name: Taylor Gonzales
+- 😄 Pronouns: He/They
+- Portland, Maine
 
-<!--
-**Taylorgonz/Taylorgonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer and Photographer currently attending the Full Stack Coding Bootcamp through UNH. 
 
-Here are some ideas to get you started:
+## I have experience in
+```
+- Javascript
+- HTML
+- CSS
+- JQuery
+- React
+- Bootstrap
+- Materialize
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me: ...
+- [Linked In](https://www.linkedin.com/in/taylorgonz/)
+- [Portfolio](https://taylorgonz.com/)
+- hello@taylrgonz.com
+
+
+- 🌱 I’m currently learning Backend Javascript.
+- ⚡ Fun fact: Coffee is my other passion and I've been a Coffee Professional for the last 6 years.
