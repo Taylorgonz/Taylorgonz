@@ -1,5 +1,5 @@
 ### Hi there 👋
--Name: Taylor Gonzales
+- Name: Taylor Gonzales
 - 😄 Pronouns: He/They
 - Portland, Maine
 
