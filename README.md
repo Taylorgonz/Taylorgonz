@@ -22,9 +22,6 @@ I'm a Web Developer and Photographer currently attending the Full Stack Coding B
 - hello@taylrgonz.com
 
 ##
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=taylorgonz&theme=blue-green)
-
-##
 
 - 🌱 I’m currently learning Backend Javascript.
 - ⚡ Fun fact: Coffee is my other passion and I've been a Coffee Professional for the last 6 years.
