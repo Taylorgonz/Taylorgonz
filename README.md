@@ -19,7 +19,7 @@ I'm a Web Developer and Photographer currently attending the Full Stack Coding B
 ## 📫 How to reach me: ...
 - [Linked In](https://www.linkedin.com/in/taylorgonz/)
 - [Portfolio](https://taylorgonz.com/)
-- hello@taylrgonz.com
+- hello@taylorgonz.com
 
 ##
 
