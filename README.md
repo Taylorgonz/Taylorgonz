@@ -1,6 +1,6 @@
 ### Hi there 👋
 - Name: Taylor Gonzales
-- 😄 Pronouns: He/They
+- 😄 Pronouns: He/Him
 - Portland, Maine
 
 I'm a Web Developer and Photographer currently attending the Full Stack Coding Bootcamp through UNH. 
