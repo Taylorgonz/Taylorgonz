@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - Portland, Maine
 
-Software Engineer based out of Sothern Maine. 
+Software Engineer based out of Southern Maine. 
 
 ## I have experience in
 ```
