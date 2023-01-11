@@ -22,5 +22,6 @@ Software Engineer based out of Southern Maine.
 - [Linked In](https://www.linkedin.com/in/taylorgonz/)
 - [Portfolio](https://taylorgonz.com/)
 - hello@taylorgonz.com
+- (940) 453-8585
 
 ##
