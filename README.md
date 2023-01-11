@@ -3,11 +3,13 @@
 - 😄 Pronouns: He/Him
 - Portland, Maine
 
-I'm a Web Developer and Photographer currently attending the Full Stack Coding Bootcamp through UNH. 
+Software Engineer based out of Sothern Maine. 
 
 ## I have experience in
 ```
 - Javascript
+- React
+- Node
 - HTML
 - CSS
 - JQuery
@@ -23,5 +25,4 @@ I'm a Web Developer and Photographer currently attending the Full Stack Coding B
 
 ##
 
-- 🌱 I’m currently learning Backend Javascript.
 - ⚡ Fun fact: Coffee is my other passion and I've been a Coffee Professional for the last 6 years.
