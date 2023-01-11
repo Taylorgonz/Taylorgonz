@@ -24,5 +24,3 @@ Software Engineer based out of Sothern Maine.
 - hello@taylorgonz.com
 
 ##
-
-- ⚡ Fun fact: Coffee is my other passion and I've been a Coffee Professional for the last 6 years.
